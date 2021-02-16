@@ -18,7 +18,7 @@ const Header = (props) => {
   return(
     <header className="header">
         <div style={{display: 'flex'}}>
-          <div className="logo">Private Chat</div>
+          <div className="logo">Instcoded v1.0 LC</div>
           {
               !auth.authenticated ? 
               <ul className="leftMenu">

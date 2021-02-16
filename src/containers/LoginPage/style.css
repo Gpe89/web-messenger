@@ -228,7 +228,8 @@ form:after {
     text-decoration: underline;
 }
 #boton {
-  background: rgb(234 227 1);
+  color: white;
+  background: rgb(0 0 0);
   background: -moz-linear-gradient(top,  rgba(247,249,250,1) 0%, rgba(240,240,240,1) 100%);
   background: -webkit-linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
   background: -o-linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
